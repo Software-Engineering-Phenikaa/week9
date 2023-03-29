@@ -7,8 +7,8 @@
 |Người dùng| Đăng ký vào ứng dụng| Đăng ký (UC-2)|
 |Người dùng| Thêm, quản lý các thông tin khám bệnh vào hệ thống|Thêm dữ liệu (UC-3)|
 |Người dừng| Kiểm tra các dữ liệu được thêm vào| Kiểm tra dữ liệu (UC-4)|
-|Kế toán| Tính toán và kiểm tra các hóa đơn| Tính toán (UC-4) |
-|Người dùng| Giao tiếp với các người dùng khác trong hệ thống| Giao tiếp (UC-5)|
+|Kế toán| Tính toán và kiểm tra các hóa đơn| Tính toán (UC-5) |
+|Người dùng| Giao tiếp với các người dùng khác trong hệ thống| Giao tiếp (UC-6)|
 
 2. Miêu tả các user cases
 2.1. Các miêu tả use case
@@ -18,9 +18,11 @@
     Người dùng chỉ được đăng ký một tài khoản với thông tin cá nhân chính chủ của mình. Sau khi đăng ký, người dùng có thể thực hiện thao tác đăng nhập.
     UC-3: Thêm dữ liệu
     Người dùng có thể nhập các dữ liệu vào hệ thống
-    UC-4: Tính toán
+    UC-4: Kiểm tra dữ liệu
+    Người dùng kiểm tra, phân loại các dữ liệu nhận vào và gửi đi
+    UC-5: Tính toán
     Kế toán tính toán các chi phí của bệnh nhân và trả về các hóa đơn.
-    UC-5: Giao tiếp
+    UC-6: Giao tiếp
     Người dùng gửi các thông tin về bệnh nhân cho nhau để thực hiện các chức năng
 
 2.2. Lược đồ use cases
